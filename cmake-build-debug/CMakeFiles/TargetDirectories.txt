@@ -1,0 +1,3 @@
+/Users/shizuku/Developer/Saori/cmake-build-debug/CMakeFiles/Saori.dir
+/Users/shizuku/Developer/Saori/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shizuku/Developer/Saori/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+# ninja log v5
+1	127	1680440531605440486	CMakeFiles/Saori.dir/main.c.o	e69550ec8f014a14
+229	383	1680607376354609120	Saori	baad62e47efc9bd1
+2	126	1680441026475606831	CMakeFiles/Saori.dir/1.TwoSum/runTwoSum.c.o	8ebb09b640da651
+1	228	1680607376201491450	CMakeFiles/Saori.dir/1.TwoSum/解法一：暴力解法/twoSum_solution_1.c.o	68ed46bbcd76f885
